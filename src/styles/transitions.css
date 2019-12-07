@@ -1,0 +1,27 @@
+/* list */
+
+.list-enter-active, .list-leave-active {
+  transition: opacity .3s ease;
+}
+
+/* .list-item {
+  transition: all 1s;
+} */
+
+.list-enter, .list-leave-to {
+  opacity: 0;
+}
+
+/* .list-leave-active {
+  position: absolute;
+} */
+
+/* fade */
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .3s;
+}
+
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
