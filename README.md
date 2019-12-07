@@ -1,5 +1,7 @@
 # colorboard
 
+Colorboard allows you to easily save colors.
+
 ## Project setup
 ```
 npm install
